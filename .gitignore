@@ -7,3 +7,6 @@ __pycache__/
 
 # Arquivos de ambiente
 .env
+
+#ignora arquivos de dados
+data/
