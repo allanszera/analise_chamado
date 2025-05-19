@@ -10,3 +10,7 @@ __pycache__/
 
 #ignora arquivos de dados
 data/
+
+#ignora o script ps
+setup.ps1
+
